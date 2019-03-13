@@ -1,0 +1,522 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,472245966,,,4
+H5,2017,2017,2017,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,0901,"Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,65471044,,65471044,,262245503,,,0
+H5,2017,2017,2017,6,1,1,Import,156,China,CHN,0,World,WLD,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,,,47938323,,47938323,,128485755,,,0
+H5,2017,2017,2017,6,1,1,Import,156,China,CHN,0,World,WLD,,,,,,,,090112,"Coffee; decaffeinated, not roasted",8,Weight in kilograms,,,74095,,74095,,381825,,,0
+H5,2017,2017,2017,6,1,1,Import,156,China,CHN,0,World,WLD,,,,,,,,090121,"Coffee; roasted, not decaffeinated",8,Weight in kilograms,,,16822992,,16822992,,125791055,,,0
+H5,2017,2017,2017,6,1,1,Import,156,China,CHN,0,World,WLD,,,,,,,,090122,"Coffee; roasted, decaffeinated",8,Weight in kilograms,,,631758,,631758,,7564153,,,0
+H5,2017,2017,2017,6,1,1,Import,156,China,CHN,0,World,WLD,,,,,,,,090190,"Coffee; husks and skins, coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,3876,,3876,,22715,,,0
+H5,2017,2017,2017,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,0902,Tea,8,Weight in kilograms,,,29694279,,29694279,,149129700,,,6
+H5,2017,2017,2017,6,1,1,Import,156,China,CHN,0,World,WLD,,,,,,,,090210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,648710,,648710,,6058785,,,6
+H5,2017,2017,2017,6,1,1,Import,156,China,CHN,0,World,WLD,,,,,,,,090220,"Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,1654046,,1654046,,8224031,,,6
+H5,2017,2017,2017,6,1,1,Import,156,China,CHN,0,World,WLD,,,,,,,,090230,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,2534821,,2534821,,34724960,,,6
+H5,2017,2017,2017,6,1,1,Import,156,China,CHN,0,World,WLD,,,,,,,,090240,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,24856700,,24856700,,100121924,,,0
+H5,2017,2017,2017,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,2930789065,,,4
+H5,2017,2017,2017,4,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,0901,"Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,71267194,,71267194,,237189104,,,0
+H5,2017,2017,2017,6,1,2,Export,156,China,CHN,0,World,WLD,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,,,60553753,,60553753,,171054224,,,0
+H5,2017,2017,2017,6,1,2,Export,156,China,CHN,0,World,WLD,,,,,,,,090112,"Coffee; decaffeinated, not roasted",8,Weight in kilograms,,,1230,,1230,,9130,,,0
+H5,2017,2017,2017,6,1,2,Export,156,China,CHN,0,World,WLD,,,,,,,,090121,"Coffee; roasted, not decaffeinated",8,Weight in kilograms,,,10666944,,10666944,,65911229,,,0
+H5,2017,2017,2017,6,1,2,Export,156,China,CHN,0,World,WLD,,,,,,,,090122,"Coffee; roasted, decaffeinated",8,Weight in kilograms,,,21566,,21566,,175584,,,0
+H5,2017,2017,2017,6,1,2,Export,156,China,CHN,0,World,WLD,,,,,,,,090190,"Coffee; husks and skins, coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,23701,,23701,,38937,,,0
+H5,2017,2017,2017,4,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,0902,Tea,8,Weight in kilograms,,,355258256,,355258256,,1609959814,,,6
+H5,2017,2017,2017,6,1,2,Export,156,China,CHN,0,World,WLD,,,,,,,,090210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,127361908,,127361908,,637749925,,,6
+H5,2017,2017,2017,6,1,2,Export,156,China,CHN,0,World,WLD,,,,,,,,090220,"Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,173432669,,173432669,,547146499,,,0
+H5,2017,2017,2017,6,1,2,Export,156,China,CHN,0,World,WLD,,,,,,,,090230,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,9819204,,9819204,,197405813,,,6
+H5,2017,2017,2017,6,1,2,Export,156,China,CHN,0,World,WLD,,,,,,,,090240,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,44644474,,44644474,,227657577,,,0
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,4516704245,,,4
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,0901,"Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,1122087425,,1122087425,,3513730598,,,0
+H5,2017,2017,2017,6,1,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,,,1040851766,,1040851766,,2803300603,,,0
+H5,2017,2017,2017,6,1,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,090112,"Coffee; decaffeinated, not roasted",8,Weight in kilograms,,,1513211,,1513211,,8238237,,,0
+H5,2017,2017,2017,6,1,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,090121,"Coffee; roasted, not decaffeinated",8,Weight in kilograms,,,75236139,,75236139,,586462642,,,0
+H5,2017,2017,2017,6,1,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,090122,"Coffee; roasted, decaffeinated",8,Weight in kilograms,,,4118165,,4118165,,114142245,,,0
+H5,2017,2017,2017,6,1,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,090190,"Coffee; husks and skins, coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,368144,,368144,,1586868,,,0
+H5,2017,2017,2017,4,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,0902,Tea,8,Weight in kilograms,,,54068206,,54068206,,227917442,,,0
+H5,2017,2017,2017,6,1,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,090210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,736160,,736160,,14064161,,,0
+H5,2017,2017,2017,6,1,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,090220,"Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,14357180,,14357180,,57631166,,,0
+H5,2017,2017,2017,6,1,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,090230,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,4871695,,4871695,,40187282,,,0
+H5,2017,2017,2017,6,1,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,090240,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,34103171,,34103171,,116034832,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,3362856711,,,4
+H5,2017,2017,2017,4,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,0901,"Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,581289082,,581289082,,2636298953,,,0
+H5,2017,2017,2017,6,1,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,,,204134612,,204134612,,621854598,,,0
+H5,2017,2017,2017,6,1,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,090112,"Coffee; decaffeinated, not roasted",8,Weight in kilograms,,,155670556,,155670556,,529755487,,,0
+H5,2017,2017,2017,6,1,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,090121,"Coffee; roasted, not decaffeinated",8,Weight in kilograms,,,214805354,,214805354,,1436576589,,,0
+H5,2017,2017,2017,6,1,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,090122,"Coffee; roasted, decaffeinated",8,Weight in kilograms,,,6632847,,6632847,,47593105,,,0
+H5,2017,2017,2017,6,1,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,090190,"Coffee; husks and skins, coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,45713,,45713,,519173,,,0
+H5,2017,2017,2017,4,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,0902,Tea,8,Weight in kilograms,,,25580430,,25580430,,249533131,,,0
+H5,2017,2017,2017,6,1,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,090210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,2542431,,2542431,,56849193,,,0
+H5,2017,2017,2017,6,1,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,090220,"Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,4834869,,4834869,,40310945,,,0
+H5,2017,2017,2017,6,1,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,090230,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,5967593,,5967593,,79564572,,,0
+H5,2017,2017,2017,6,1,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,090240,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,12235537,,12235537,,72808419,,,0
+H5,2017,2017,2017,2,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,1947615385,,,4
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,0901,"Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,414075138,,414075138,,1432048630,,,0
+H5,2017,2017,2017,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,,,403954722,,403954722,,1318214213,,,0
+H5,2017,2017,2017,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,090112,"Coffee; decaffeinated, not roasted",8,Weight in kilograms,,,2375420,,2375420,,11877869,,,0
+H5,2017,2017,2017,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,090121,"Coffee; roasted, not decaffeinated",8,Weight in kilograms,,,7321744,,7321744,,96286443,,,0
+H5,2017,2017,2017,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,090122,"Coffee; roasted, decaffeinated",8,Weight in kilograms,,,420857,,420857,,5647705,,,0
+H5,2017,2017,2017,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,090190,"Coffee; husks and skins, coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,2395,,2395,,22398,,,0
+H5,2017,2017,2017,4,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,0902,Tea,8,Weight in kilograms,,,30429889,,30429889,,177323772,,,0
+H5,2017,2017,2017,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,090210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,418731,,418731,,3458683,,,0
+H5,2017,2017,2017,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,090220,"Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,3551670,,3551670,,20075331,,,0
+H5,2017,2017,2017,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,090230,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,2468941,,2468941,,43025549,,,0
+H5,2017,2017,2017,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,090240,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,23990547,,23990547,,110764208,,,0
+H5,2017,2017,2017,2,0,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,165777543,,,4
+H5,2017,2017,2017,4,0,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,0901,"Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,2596619,,2596619,,26767889,,,0
+H5,2017,2017,2017,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,,,1637,,1637,,34418,,,0
+H5,2017,2017,2017,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,090121,"Coffee; roasted, not decaffeinated",8,Weight in kilograms,,,2546929,,2546929,,26546005,,,0
+H5,2017,2017,2017,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,090122,"Coffee; roasted, decaffeinated",8,Weight in kilograms,,,938,,938,,34204,,,0
+H5,2017,2017,2017,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,090190,"Coffee; husks and skins, coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,47115,,47115,,153260,,,0
+H5,2017,2017,2017,4,0,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,0902,Tea,8,Weight in kilograms,,,4744892,,4744892,,129883238,,,0
+H5,2017,2017,2017,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,090210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,1907724,,1907724,,70723694,,,0
+H5,2017,2017,2017,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,090220,"Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,2734114,,2734114,,57298077,,,0
+H5,2017,2017,2017,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,090230,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,69865,,69865,,1276519,,,0
+H5,2017,2017,2017,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,090240,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,33189,,33189,,584946,,,0
+H5,2017,2017,2017,2,0,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,1271927749,,,4
+H5,2017,2017,2017,4,0,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,0901,"Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,189642003,,189642003,,638971184,,,6
+H5,2017,2017,2017,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,,,165339536,,165339536,,449626663,,,0
+H5,2017,2017,2017,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090112,"Coffee; decaffeinated, not roasted",8,Weight in kilograms,,,70375,,70375,,309751,,,0
+H5,2017,2017,2017,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090121,"Coffee; roasted, not decaffeinated",8,Weight in kilograms,,,23554865,,23554865,,185420284,,,0
+H5,2017,2017,2017,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090122,"Coffee; roasted, decaffeinated",8,Weight in kilograms,,,123206,,123206,,2320978,,,6
+H5,2017,2017,2017,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090190,"Coffee; husks and skins, coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,554021,,554021,,1293508,,,0
+H5,2017,2017,2017,4,0,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,0902,Tea,8,Weight in kilograms,,,168784773,,168784773,,524966011,,,6
+H5,2017,2017,2017,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,1265821,,1265821,,7919747,,,6
+H5,2017,2017,2017,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090220,"Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,12984082,,12984082,,36129302,,,0
+H5,2017,2017,2017,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090230,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,11557355,,11557355,,56954874,,,6
+H5,2017,2017,2017,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090240,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,142977514,,142977514,,423962088,,,0
+H5,2017,2017,2017,2,0,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,157645013,,,4
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,0901,"Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,6610121,,6610121,,36132104,,,6
+H5,2017,2017,2017,6,1,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,,,384773,,384773,,1672135,,,0
+H5,2017,2017,2017,6,1,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090112,"Coffee; decaffeinated, not roasted",8,Weight in kilograms,,,1080,,1080,,6517,,,0
+H5,2017,2017,2017,6,1,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090121,"Coffee; roasted, not decaffeinated",8,Weight in kilograms,,,6031828,,6031828,,34107536,,,6
+H5,2017,2017,2017,6,1,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090122,"Coffee; roasted, decaffeinated",8,Weight in kilograms,,,190264,,190264,,327136,,,6
+H5,2017,2017,2017,6,1,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090190,"Coffee; husks and skins, coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,2175,,2175,,18780,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,0902,Tea,8,Weight in kilograms,,,16862805,,16862805,,92271293,,,6
+H5,2017,2017,2017,6,1,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,1934501,,1934501,,12251384,,,6
+H5,2017,2017,2017,6,1,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090220,"Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,80722,,80722,,418149,,,0
+H5,2017,2017,2017,6,1,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090230,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,14404815,,14404815,,78036220,,,6
+H5,2017,2017,2017,6,1,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090240,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,442767,,442767,,1565540,,,0
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,8662544149,,,4
+H5,2017,2017,2017,4,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,0901,"Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,1716775009,,1716775009,,6314927474,,,6
+H5,2017,2017,2017,6,1,1,Import,842,USA,USA,0,World,WLD,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,,,1498333764,,1498333764,,4909930680,,,6
+H5,2017,2017,2017,6,1,1,Import,842,USA,USA,0,World,WLD,,,,,,,,090112,"Coffee; decaffeinated, not roasted",8,Weight in kilograms,,,98243920,,98243920,,387144428,,,6
+H5,2017,2017,2017,6,1,1,Import,842,USA,USA,0,World,WLD,,,,,,,,090121,"Coffee; roasted, not decaffeinated",8,Weight in kilograms,,,114257306,,114257306,,949589801,,,6
+H5,2017,2017,2017,6,1,1,Import,842,USA,USA,0,World,WLD,,,,,,,,090122,"Coffee; roasted, decaffeinated",8,Weight in kilograms,,,5804748,,5804748,,67626963,,,6
+H5,2017,2017,2017,6,1,1,Import,842,USA,USA,0,World,WLD,,,,,,,,090190,"Coffee; husks and skins, coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,135269,,135269,,635602,,,0
+H5,2017,2017,2017,4,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,0902,Tea,8,Weight in kilograms,,,128152243,,128152243,,486597367,,,6
+H5,2017,2017,2017,6,1,1,Import,842,USA,USA,0,World,WLD,,,,,,,,090210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,5781544,,5781544,,82699405,,,6
+H5,2017,2017,2017,6,1,1,Import,842,USA,USA,0,World,WLD,,,,,,,,090220,"Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,14483651,,14483651,,66356647,,,6
+H5,2017,2017,2017,6,1,1,Import,842,USA,USA,0,World,WLD,,,,,,,,090230,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,13731419,,13731419,,142056283,,,6
+H5,2017,2017,2017,6,1,1,Import,842,USA,USA,0,World,WLD,,,,,,,,090240,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,94155627,,94155627,,195485032,,,6
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,1170146999,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,0901,"Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,121740593,,121740593,,872856806,,,0
+H5,2017,2017,2017,6,1,2,Export,842,USA,USA,0,World,WLD,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,,,31886381,,31886381,,159871126,,,0
+H5,2017,2017,2017,6,1,2,Export,842,USA,USA,0,World,WLD,,,,,,,,090112,"Coffee; decaffeinated, not roasted",8,Weight in kilograms,,,2688069,,2688069,,7910789,,,0
+H5,2017,2017,2017,6,1,2,Export,842,USA,USA,0,World,WLD,,,,,,,,090121,"Coffee; roasted, not decaffeinated",8,Weight in kilograms,,,80816676,,80816676,,657871881,,,0
+H5,2017,2017,2017,6,1,2,Export,842,USA,USA,0,World,WLD,,,,,,,,090122,"Coffee; roasted, decaffeinated",8,Weight in kilograms,,,5500336,,5500336,,43307761,,,0
+H5,2017,2017,2017,6,1,2,Export,842,USA,USA,0,World,WLD,,,,,,,,090190,"Coffee; husks and skins, coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,849131,,849131,,3895249,,,0
+H5,2017,2017,2017,4,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,0902,Tea,8,Weight in kilograms,,,18498479,,18498479,,135859068,,,0
+H5,2017,2017,2017,6,1,2,Export,842,USA,USA,0,World,WLD,,,,,,,,090210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,5835773,,5835773,,33787180,,,0
+H5,2017,2017,2017,6,1,2,Export,842,USA,USA,0,World,WLD,,,,,,,,090220,"Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,2210751,,2210751,,10342848,,,0
+H5,2017,2017,2017,6,1,2,Export,842,USA,USA,0,World,WLD,,,,,,,,090230,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,7269372,,7269372,,76627397,,,0
+H5,2017,2017,2017,6,1,2,Export,842,USA,USA,0,World,WLD,,,,,,,,090240,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,3182583,,3182583,,15101643,,,0
+H5,2017,2017,2017,2,0,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,259688293,,,0
+H5,2017,2017,2017,4,0,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,0901,"Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,35637231,,35637231,,185142064,,,0
+H5,2017,2017,2017,6,1,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,,,31426860,,31426860,,157547018,,,0
+H5,2017,2017,2017,6,1,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,090112,"Coffee; decaffeinated, not roasted",8,Weight in kilograms,,,1507858,,1507858,,4422547,,,0
+H5,2017,2017,2017,6,1,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,090121,"Coffee; roasted, not decaffeinated",8,Weight in kilograms,,,2208698,,2208698,,20186806,,,0
+H5,2017,2017,2017,6,1,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,090122,"Coffee; roasted, decaffeinated",8,Weight in kilograms,,,215494,,215494,,1827050,,,0
+H5,2017,2017,2017,6,1,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,090190,"Coffee; husks and skins, coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,278321,,278321,,1158643,,,0
+H5,2017,2017,2017,4,0,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,0902,Tea,8,Weight in kilograms,,,3778654,,3778654,,27673999,,,0
+H5,2017,2017,2017,6,1,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,090210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,1513717,,1513717,,7254489,,,0
+H5,2017,2017,2017,6,1,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,090220,"Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,550530,,550530,,2463046,,,0
+H5,2017,2017,2017,6,1,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,090230,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,1219254,,1219254,,15434140,,,0
+H5,2017,2017,2017,6,1,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,090240,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,495153,,495153,,2522324,,,0
+H4,2014,2014,2014,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,,,,,342296968,,,0
+H4,2014,2014,2014,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,,,,,2452618343,,,0
+H4,2014,2014,2014,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,,,,,4895589618,,,0
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,,,,,3125679016,,,0
+H4,2014,2014,2014,2,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,,,,,1995248321,,,0
+H4,2014,2014,2014,2,0,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,,,,,92620202,,,0
+H4,2014,2014,2014,2,0,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,,,,,1300100450,,,0
+H4,2014,2014,2014,2,0,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,,,,,144476096,,,0
+H4,2014,2014,2014,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,,,,,7881467614,,,0
+H4,2014,2014,2014,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,,,,,1224982812,,,0
+H4,2014,2014,2014,2,0,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,,,,,263029264,,,0
+H4,2015,2015,2015,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,,,,,397476855,,,0
+H4,2015,2015,2015,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,,,,,2535382061,,,0
+H4,2015,2015,2015,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,,,,,4304446664,,,0
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,,,,,2883918406,,,0
+H4,2015,2015,2015,2,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,,,,,2126803834,,,0
+H4,2015,2015,2015,2,0,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,,,,,111120074,,,0
+H4,2015,2015,2015,2,0,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,,,,,1222621035,,,0
+H4,2015,2015,2015,2,0,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,,,,,127219481,,,0
+H4,2015,2015,2015,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,,,,,8176661496,,,0
+H4,2015,2015,2015,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,,,,,1219454066,,,0
+H4,2015,2015,2015,2,0,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,,,,,259809067,,,0
+H4,2016,2016,2016,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,,,,,666895114,,,0
+H4,2016,2016,2016,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,,,,,2981022067,,,0
+H4,2016,2016,2016,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,,,,,4375535326,,,0
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,,,,,3035948811,,,0
+H4,2016,2016,2016,2,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,,,,,1918989233,,,0
+H4,2016,2016,2016,2,0,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,,,,,143100695,,,0
+H4,2016,2016,2016,2,0,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,,,,,1157724587,,,0
+H4,2016,2016,2016,2,0,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,,,,,141092335,,,0
+H4,2016,2016,2016,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,7939261958,,,4
+H4,2016,2016,2016,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,1219828848,,,0
+H4,2016,2016,2016,2,0,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,,,0,,0,,278592400,,,0
+H4,2014,2014,2014,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,0901,"Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,65715466,,65715466,,187464999,,,0
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,0901,"Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,71720471,,71720471,,222424212,,,6
+H4,2014,2014,2014,4,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,0901,"Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,1162073089,,1162073089,,4017856074,,,0
+H4,2014,2014,2014,4,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,0901,"Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,542484644,,542484644,,2487575910,,,6
+H4,2014,2014,2014,4,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,0901,"Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,416845264,,416845264,,1442250659,,,0
+H4,2014,2014,2014,4,0,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,0901,"Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,622221,,622221,,8335232,,,0
+H4,2014,2014,2014,4,0,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,0901,"Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,154526038,,154526038,,571601972,,,0
+H4,2014,2014,2014,4,0,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,0901,"Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,8290893,,8290893,,43006000,,,0
+H4,2014,2014,2014,4,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,0901,"Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,1524987413,,1524987413,,6013015226,,,0
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,0901,"Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,148651033,,148651033,,958674259,,,0
+H4,2014,2014,2014,4,0,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,0901,"Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,49787791,,49787791,,191960353,,,0
+H4,2015,2015,2015,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,0901,"Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,59184062,,59184062,,228816705,,,6
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,0901,"Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,66426962,,66426962,,227227575,,,6
+H4,2015,2015,2015,4,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,0901,"Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,1110810240,,1110810240,,3407082697,,,6
+H4,2015,2015,2015,4,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,0901,"Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,527764126,,527764126,,2255438647,,,6
+H4,2015,2015,2015,4,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,0901,"Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,442310665,,442310665,,1581142038,,,0
+H4,2015,2015,2015,4,0,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,0901,"Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,1638178,,1638178,,16939184,,,0
+H4,2015,2015,2015,4,0,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,0901,"Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,156650926,,156650926,,511149343,,,6
+H4,2015,2015,2015,4,0,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,0901,"Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,5477390,,5477390,,28407432,,,6
+H4,2015,2015,2015,4,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,0901,"Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,1538551606,,1538551606,,6034025090,,,0
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,0901,"Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,127356416,,127356416,,949991894,,,0
+H4,2015,2015,2015,4,0,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,0901,"Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,38022675,,38022675,,196875081,,,0
+H4,2016,2016,2016,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,0901,"Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,84322773,,84322773,,493769938,,,6
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,0901,"Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,110757384,,110757384,,528455784,,,6
+H4,2016,2016,2016,4,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,0901,"Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,1197359895,,1197359895,,3370561505,,,0
+H4,2016,2016,2016,4,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,0901,"Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,564922002,,564922002,,2318830177,,,0
+H4,2016,2016,2016,4,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,0901,"Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,442647777,,442647777,,1415348978,,,0
+H4,2016,2016,2016,4,0,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,0901,"Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,2116955,,2116955,,25012127,,,0
+H4,2016,2016,2016,4,0,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,0901,"Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,171503857,,171503857,,516528094,,,0
+H4,2016,2016,2016,4,0,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,0901,"Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,4953940,,4953940,,26561127,,,0
+H4,2016,2016,2016,4,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,0901,"Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,1603485966,,1603485966,,5746364394,,,6
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,0901,"Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,130348016,,130348016,,932040758,,,0
+H4,2016,2016,2016,4,0,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,0901,"Coffee, whether or not roasted or decaffeinated; husks and skins; coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,42017809,,42017809,,207437710,,,0
+H4,2014,2014,2014,6,1,1,Import,156,China,CHN,0,World,WLD,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,,,60561817,,60561817,,134025968,,,0
+H4,2014,2014,2014,6,1,2,Export,156,China,CHN,0,World,WLD,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,,,67172981,,67172981,,198923071,,,0
+H4,2014,2014,2014,6,1,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,,,1082044905,,1082044905,,3214015131,,,0
+H4,2014,2014,2014,6,1,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,,,182057659,,182057659,,599679948,,,0
+H4,2014,2014,2014,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,,,407351963,,407351963,,1332057340,,,0
+H4,2014,2014,2014,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,,,1381,,1381,,9792,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,,,135476491,,135476491,,391599686,,,0
+H4,2014,2014,2014,6,1,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,,,146680,,146680,,630316,,,0
+H4,2014,2014,2014,6,1,1,Import,842,USA,USA,0,World,WLD,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,,,1346278381,,1346278381,,4888414911,,,0
+H4,2014,2014,2014,6,1,2,Export,842,USA,USA,0,World,WLD,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,,,45946062,,45946062,,169283235,,,0
+H4,2014,2014,2014,6,1,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,,,45621321,,45621321,,165201077,,,0
+H4,2015,2015,2015,6,1,1,Import,156,China,CHN,0,World,WLD,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,,,49256464,,49256464,,118969518,,,0
+H4,2015,2015,2015,6,1,2,Export,156,China,CHN,0,World,WLD,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,,,61637906,,61637906,,179786686,,,0
+H4,2015,2015,2015,6,1,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,,,1032375012,,1032375012,,2766876334,,,6
+H4,2015,2015,2015,6,1,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,,,177075766,,177075766,,541056743,,,0
+H4,2015,2015,2015,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,,,433234569,,433234569,,1476536731,,,0
+H4,2015,2015,2015,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,,,4134,,4134,,32130,,,0
+H4,2015,2015,2015,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,,,137548434,,137548434,,363444302,,,6
+H4,2015,2015,2015,6,1,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,,,311397,,311397,,1113770,,,6
+H4,2015,2015,2015,6,1,1,Import,842,USA,USA,0,World,WLD,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,,,1357382298,,1357382298,,4826275714,,,0
+H4,2015,2015,2015,6,1,2,Export,842,USA,USA,0,World,WLD,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,,,35422653,,35422653,,179856219,,,0
+H4,2015,2015,2015,6,1,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,,,34670393,,34670393,,172167790,,,0
+H4,2016,2016,2016,6,1,1,Import,156,China,CHN,0,World,WLD,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,,,50515618,,50515618,,112019553,,,0
+H4,2016,2016,2016,6,1,2,Export,156,China,CHN,0,World,WLD,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,,,82665048,,82665048,,196166970,,,0
+H4,2016,2016,2016,6,1,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,,,1119347540,,1119347540,,2715407863,,,0
+H4,2016,2016,2016,6,1,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,,,203082332,,203082332,,562434789,,,0
+H4,2016,2016,2016,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,,,432591641,,432591641,,1307529703,,,0
+H4,2016,2016,2016,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,,,23989,,23989,,642893,,,0
+H4,2016,2016,2016,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,,,150911497,,150911497,,367125614,,,0
+H4,2016,2016,2016,6,1,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,,,251537,,251537,,989778,,,0
+H4,2016,2016,2016,6,1,1,Import,842,USA,USA,0,World,WLD,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,,,1416990608,,1416990608,,4531646618,,,6
+H4,2016,2016,2016,6,1,2,Export,842,USA,USA,0,World,WLD,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,,,39073457,,39073457,,186238405,,,0
+H4,2016,2016,2016,6,1,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,,,38350614,,38350614,,180958483,,,0
+H4,2014,2014,2014,6,1,1,Import,156,China,CHN,0,World,WLD,,,,,,,,090112,"Coffee; decaffeinated, not roasted",8,Weight in kilograms,,,8466,,8466,,96139,,,0
+H4,2014,2014,2014,6,1,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,090112,"Coffee; decaffeinated, not roasted",8,Weight in kilograms,,,828738,,828738,,1796975,,,0
+H4,2014,2014,2014,6,1,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,090112,"Coffee; decaffeinated, not roasted",8,Weight in kilograms,,,149933837,,149933837,,570745274,,,0
+H4,2014,2014,2014,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,090112,"Coffee; decaffeinated, not roasted",8,Weight in kilograms,,,2020027,,2020027,,10560978,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090112,"Coffee; decaffeinated, not roasted",8,Weight in kilograms,,,11810,,11810,,67642,,,0
+H4,2014,2014,2014,6,1,1,Import,842,USA,USA,0,World,WLD,,,,,,,,090112,"Coffee; decaffeinated, not roasted",8,Weight in kilograms,,,110823922,,110823922,,459806816,,,0
+H4,2014,2014,2014,6,1,2,Export,842,USA,USA,0,World,WLD,,,,,,,,090112,"Coffee; decaffeinated, not roasted",8,Weight in kilograms,,,1948505,,1948505,,7460124,,,0
+H4,2014,2014,2014,6,1,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,090112,"Coffee; decaffeinated, not roasted",8,Weight in kilograms,,,1215565,,1215565,,4208406,,,0
+H4,2015,2015,2015,6,1,1,Import,156,China,CHN,0,World,WLD,,,,,,,,090112,"Coffee; decaffeinated, not roasted",8,Weight in kilograms,,,41373,,41373,,188151,,,0
+H4,2015,2015,2015,6,1,2,Export,156,China,CHN,0,World,WLD,,,,,,,,090112,"Coffee; decaffeinated, not roasted",8,Weight in kilograms,,,1320,,1320,,8478,,,0
+H4,2015,2015,2015,6,1,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,090112,"Coffee; decaffeinated, not roasted",8,Weight in kilograms,,,286096,,286096,,1248852,,,6
+H4,2015,2015,2015,6,1,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,090112,"Coffee; decaffeinated, not roasted",8,Weight in kilograms,,,146853968,,146853968,,483640886,,,0
+H4,2015,2015,2015,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,090112,"Coffee; decaffeinated, not roasted",8,Weight in kilograms,,,2026476,,2026476,,10876135,,,0
+H4,2015,2015,2015,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090112,"Coffee; decaffeinated, not roasted",8,Weight in kilograms,,,17092,,17092,,84585,,,0
+H4,2015,2015,2015,6,1,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090112,"Coffee; decaffeinated, not roasted",8,Weight in kilograms,,,10401,,10401,,44822,,,0
+H4,2015,2015,2015,6,1,1,Import,842,USA,USA,0,World,WLD,,,,,,,,090112,"Coffee; decaffeinated, not roasted",8,Weight in kilograms,,,105187649,,105187649,,411665694,,,0
+H4,2015,2015,2015,6,1,2,Export,842,USA,USA,0,World,WLD,,,,,,,,090112,"Coffee; decaffeinated, not roasted",8,Weight in kilograms,,,1406554,,1406554,,4604360,,,0
+H4,2015,2015,2015,6,1,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,090112,"Coffee; decaffeinated, not roasted",8,Weight in kilograms,,,957192,,957192,,3144566,,,0
+H4,2016,2016,2016,6,1,1,Import,156,China,CHN,0,World,WLD,,,,,,,,090112,"Coffee; decaffeinated, not roasted",8,Weight in kilograms,,,57193,,57193,,171596,,,0
+H4,2016,2016,2016,6,1,2,Export,156,China,CHN,0,World,WLD,,,,,,,,090112,"Coffee; decaffeinated, not roasted",8,Weight in kilograms,,,1200,,1200,,6975,,,0
+H4,2016,2016,2016,6,1,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,090112,"Coffee; decaffeinated, not roasted",8,Weight in kilograms,,,455081,,455081,,2035486,,,0
+H4,2016,2016,2016,6,1,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,090112,"Coffee; decaffeinated, not roasted",8,Weight in kilograms,,,147589282,,147589282,,478273206,,,0
+H4,2016,2016,2016,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,090112,"Coffee; decaffeinated, not roasted",8,Weight in kilograms,,,2548472,,2548472,,11334201,,,0
+H4,2016,2016,2016,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090112,"Coffee; decaffeinated, not roasted",8,Weight in kilograms,,,20725,,20725,,101435,,,0
+H4,2016,2016,2016,6,1,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090112,"Coffee; decaffeinated, not roasted",8,Weight in kilograms,,,4774,,4774,,21541,,,0
+H4,2016,2016,2016,6,1,1,Import,842,USA,USA,0,World,WLD,,,,,,,,090112,"Coffee; decaffeinated, not roasted",8,Weight in kilograms,,,101136123,,101136123,,366804464,,,0
+H4,2016,2016,2016,6,1,2,Export,842,USA,USA,0,World,WLD,,,,,,,,090112,"Coffee; decaffeinated, not roasted",8,Weight in kilograms,,,1554915,,1554915,,4964382,,,0
+H4,2016,2016,2016,6,1,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,090112,"Coffee; decaffeinated, not roasted",8,Weight in kilograms,,,1050526,,1050526,,3509162,,,0
+H4,2014,2014,2014,6,1,1,Import,156,China,CHN,0,World,WLD,,,,,,,,090121,"Coffee; roasted, not decaffeinated",8,Weight in kilograms,,,4467371,,4467371,,46740344,,,0
+H4,2014,2014,2014,6,1,2,Export,156,China,CHN,0,World,WLD,,,,,,,,090121,"Coffee; roasted, not decaffeinated",8,Weight in kilograms,,,4521218,,4521218,,23334717,,,6
+H4,2014,2014,2014,6,1,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,090121,"Coffee; roasted, not decaffeinated",8,Weight in kilograms,,,77732910,,77732910,,775343646,,,0
+H4,2014,2014,2014,6,1,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,090121,"Coffee; roasted, not decaffeinated",8,Weight in kilograms,,,202535323,,202535323,,1258013412,,,0
+H4,2014,2014,2014,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,090121,"Coffee; roasted, not decaffeinated",8,Weight in kilograms,,,7272544,,7272544,,96422235,,,0
+H4,2014,2014,2014,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,090121,"Coffee; roasted, not decaffeinated",8,Weight in kilograms,,,616946,,616946,,8295949,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090121,"Coffee; roasted, not decaffeinated",8,Weight in kilograms,,,18893517,,18893517,,176684626,,,0
+H4,2014,2014,2014,6,1,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090121,"Coffee; roasted, not decaffeinated",8,Weight in kilograms,,,8114247,,8114247,,42250393,,,0
+H4,2014,2014,2014,6,1,1,Import,842,USA,USA,0,World,WLD,,,,,,,,090121,"Coffee; roasted, not decaffeinated",8,Weight in kilograms,,,61858346,,61858346,,607443657,,,0
+H4,2014,2014,2014,6,1,2,Export,842,USA,USA,0,World,WLD,,,,,,,,090121,"Coffee; roasted, not decaffeinated",8,Weight in kilograms,,,94267344,,94267344,,740854236,,,0
+H4,2014,2014,2014,6,1,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,090121,"Coffee; roasted, not decaffeinated",8,Weight in kilograms,,,2058485,,2058485,,19317274,,,0
+H4,2015,2015,2015,6,1,1,Import,156,China,CHN,0,World,WLD,,,,,,,,090121,"Coffee; roasted, not decaffeinated",8,Weight in kilograms,,,9101810,,9101810,,102233445,,,0
+H4,2015,2015,2015,6,1,2,Export,156,China,CHN,0,World,WLD,,,,,,,,090121,"Coffee; roasted, not decaffeinated",8,Weight in kilograms,,,4778155,,4778155,,47361317,,,6
+H4,2015,2015,2015,6,1,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,090121,"Coffee; roasted, not decaffeinated",8,Weight in kilograms,,,76460398,,76460398,,613965166,,,6
+H4,2015,2015,2015,6,1,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,090121,"Coffee; roasted, not decaffeinated",8,Weight in kilograms,,,196074483,,196074483,,1174473254,,,0
+H4,2015,2015,2015,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,090121,"Coffee; roasted, not decaffeinated",8,Weight in kilograms,,,6663887,,6663887,,89414951,,,0
+H4,2015,2015,2015,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,090121,"Coffee; roasted, not decaffeinated",8,Weight in kilograms,,,1629585,,1629585,,16818480,,,0
+H4,2015,2015,2015,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090121,"Coffee; roasted, not decaffeinated",8,Weight in kilograms,,,18788067,,18788067,,144980812,,,0
+H4,2015,2015,2015,6,1,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090121,"Coffee; roasted, not decaffeinated",8,Weight in kilograms,,,5106325,,5106325,,27113713,,,0
+H4,2015,2015,2015,6,1,1,Import,842,USA,USA,0,World,WLD,,,,,,,,090121,"Coffee; roasted, not decaffeinated",8,Weight in kilograms,,,69596587,,69596587,,734680708,,,0
+H4,2015,2015,2015,6,1,2,Export,842,USA,USA,0,World,WLD,,,,,,,,090121,"Coffee; roasted, not decaffeinated",8,Weight in kilograms,,,84314531,,84314531,,720372483,,,0
+H4,2015,2015,2015,6,1,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,090121,"Coffee; roasted, not decaffeinated",8,Weight in kilograms,,,2174028,,2174028,,19767189,,,0
+H4,2016,2016,2016,6,1,1,Import,156,China,CHN,0,World,WLD,,,,,,,,090121,"Coffee; roasted, not decaffeinated",8,Weight in kilograms,,,33009870,,33009870,,374106925,,,0
+H4,2016,2016,2016,6,1,2,Export,156,China,CHN,0,World,WLD,,,,,,,,090121,"Coffee; roasted, not decaffeinated",8,Weight in kilograms,,,27822004,,27822004,,327129137,,,0
+H4,2016,2016,2016,6,1,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,090121,"Coffee; roasted, not decaffeinated",8,Weight in kilograms,,,76019117,,76019117,,631610321,,,0
+H4,2016,2016,2016,6,1,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,090121,"Coffee; roasted, not decaffeinated",8,Weight in kilograms,,,207363416,,207363416,,1231554532,,,0
+H4,2016,2016,2016,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,090121,"Coffee; roasted, not decaffeinated",8,Weight in kilograms,,,7220865,,7220865,,91987559,,,0
+H4,2016,2016,2016,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,090121,"Coffee; roasted, not decaffeinated",8,Weight in kilograms,,,2089890,,2089890,,24302936,,,0
+H4,2016,2016,2016,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090121,"Coffee; roasted, not decaffeinated",8,Weight in kilograms,,,20312375,,20312375,,146995828,,,0
+H4,2016,2016,2016,6,1,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090121,"Coffee; roasted, not decaffeinated",8,Weight in kilograms,,,4591349,,4591349,,25309612,,,0
+H4,2016,2016,2016,6,1,1,Import,842,USA,USA,0,World,WLD,,,,,,,,090121,"Coffee; roasted, not decaffeinated",8,Weight in kilograms,,,78728364,,78728364,,786435717,,,0
+H4,2016,2016,2016,6,1,2,Export,842,USA,USA,0,World,WLD,,,,,,,,090121,"Coffee; roasted, not decaffeinated",8,Weight in kilograms,,,83833660,,83833660,,697041921,,,0
+H4,2016,2016,2016,6,1,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,090121,"Coffee; roasted, not decaffeinated",8,Weight in kilograms,,,2179474,,2179474,,20238325,,,0
+H4,2014,2014,2014,6,1,1,Import,156,China,CHN,0,World,WLD,,,,,,,,090122,"Coffee; roasted, decaffeinated",8,Weight in kilograms,,,663671,,663671,,6485140,,,0
+H4,2014,2014,2014,6,1,2,Export,156,China,CHN,0,World,WLD,,,,,,,,090122,"Coffee; roasted, decaffeinated",8,Weight in kilograms,,,26250,,26250,,166310,,,0
+H4,2014,2014,2014,6,1,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,090122,"Coffee; roasted, decaffeinated",8,Weight in kilograms,,,1433688,,1433688,,26283866,,,0
+H4,2014,2014,2014,6,1,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,090122,"Coffee; roasted, decaffeinated",8,Weight in kilograms,,,7883457,,7883457,,57843727,,,0
+H4,2014,2014,2014,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,090122,"Coffee; roasted, decaffeinated",8,Weight in kilograms,,,190656,,190656,,3106736,,,0
+H4,2014,2014,2014,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,090122,"Coffee; roasted, decaffeinated",8,Weight in kilograms,,,231,,231,,5345,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090122,"Coffee; roasted, decaffeinated",8,Weight in kilograms,,,142213,,142213,,3239790,,,0
+H4,2014,2014,2014,6,1,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090122,"Coffee; roasted, decaffeinated",8,Weight in kilograms,,,26101,,26101,,93403,,,0
+H4,2014,2014,2014,6,1,1,Import,842,USA,USA,0,World,WLD,,,,,,,,090122,"Coffee; roasted, decaffeinated",8,Weight in kilograms,,,5907822,,5907822,,56720285,,,0
+H4,2014,2014,2014,6,1,2,Export,842,USA,USA,0,World,WLD,,,,,,,,090122,"Coffee; roasted, decaffeinated",8,Weight in kilograms,,,5150064,,5150064,,37299283,,,0
+H4,2014,2014,2014,6,1,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,090122,"Coffee; roasted, decaffeinated",8,Weight in kilograms,,,355313,,355313,,2990582,,,0
+H4,2015,2015,2015,6,1,1,Import,156,China,CHN,0,World,WLD,,,,,,,,090122,"Coffee; roasted, decaffeinated",8,Weight in kilograms,,,742171,,742171,,7136905,,,0
+H4,2015,2015,2015,6,1,2,Export,156,China,CHN,0,World,WLD,,,,,,,,090122,"Coffee; roasted, decaffeinated",8,Weight in kilograms,,,9581,,9581,,71094,,,0
+H4,2015,2015,2015,6,1,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,090122,"Coffee; roasted, decaffeinated",8,Weight in kilograms,,,1639329,,1639329,,24498286,,,0
+H4,2015,2015,2015,6,1,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,090122,"Coffee; roasted, decaffeinated",8,Weight in kilograms,,,7690781,,7690781,,55230109,,,6
+H4,2015,2015,2015,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,090122,"Coffee; roasted, decaffeinated",8,Weight in kilograms,,,254571,,254571,,4252340,,,0
+H4,2015,2015,2015,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,090122,"Coffee; roasted, decaffeinated",8,Weight in kilograms,,,3985,,3985,,82557,,,0
+H4,2015,2015,2015,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090122,"Coffee; roasted, decaffeinated",8,Weight in kilograms,,,145321,,145321,,2372491,,,0
+H4,2015,2015,2015,6,1,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090122,"Coffee; roasted, decaffeinated",8,Weight in kilograms,,,48194,,48194,,113478,,,0
+H4,2015,2015,2015,6,1,1,Import,842,USA,USA,0,World,WLD,,,,,,,,090122,"Coffee; roasted, decaffeinated",8,Weight in kilograms,,,6198195,,6198195,,60578117,,,0
+H4,2015,2015,2015,6,1,2,Export,842,USA,USA,0,World,WLD,,,,,,,,090122,"Coffee; roasted, decaffeinated",8,Weight in kilograms,,,5410858,,5410858,,41423731,,,0
+H4,2015,2015,2015,6,1,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,090122,"Coffee; roasted, decaffeinated",8,Weight in kilograms,,,183635,,183635,,1710454,,,0
+H4,2016,2016,2016,6,1,1,Import,156,China,CHN,0,World,WLD,,,,,,,,090122,"Coffee; roasted, decaffeinated",8,Weight in kilograms,,,723394,,723394,,7347720,,,6
+H4,2016,2016,2016,6,1,2,Export,156,China,CHN,0,World,WLD,,,,,,,,090122,"Coffee; roasted, decaffeinated",8,Weight in kilograms,,,266881,,266881,,5141713,,,0
+H4,2016,2016,2016,6,1,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,090122,"Coffee; roasted, decaffeinated",8,Weight in kilograms,,,1424909,,1424909,,21005961,,,0
+H4,2016,2016,2016,6,1,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,090122,"Coffee; roasted, decaffeinated",8,Weight in kilograms,,,6819540,,6819540,,45732550,,,0
+H4,2016,2016,2016,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,090122,"Coffee; roasted, decaffeinated",8,Weight in kilograms,,,278320,,278320,,4416039,,,0
+H4,2016,2016,2016,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,090122,"Coffee; roasted, decaffeinated",8,Weight in kilograms,,,2819,,2819,,60691,,,0
+H4,2016,2016,2016,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090122,"Coffee; roasted, decaffeinated",8,Weight in kilograms,,,138618,,138618,,2097736,,,0
+H4,2016,2016,2016,6,1,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090122,"Coffee; roasted, decaffeinated",8,Weight in kilograms,,,105367,,105367,,224575,,,0
+H4,2016,2016,2016,6,1,1,Import,842,USA,USA,0,World,WLD,,,,,,,,090122,"Coffee; roasted, decaffeinated",8,Weight in kilograms,,,6458520,,6458520,,60698639,,,0
+H4,2016,2016,2016,6,1,2,Export,842,USA,USA,0,World,WLD,,,,,,,,090122,"Coffee; roasted, decaffeinated",8,Weight in kilograms,,,5092879,,5092879,,39999762,,,0
+H4,2016,2016,2016,6,1,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,090122,"Coffee; roasted, decaffeinated",8,Weight in kilograms,,,282507,,282507,,1901096,,,0
+H4,2014,2014,2014,6,1,1,Import,156,China,CHN,0,World,WLD,,,,,,,,090190,"Coffee; husks and skins, coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,14141,,14141,,117408,,,0
+H4,2014,2014,2014,6,1,2,Export,156,China,CHN,0,World,WLD,,,,,,,,090190,"Coffee; husks and skins, coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,22,,22,,114,,,0
+H4,2014,2014,2014,6,1,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,090190,"Coffee; husks and skins, coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,32848,,32848,,416456,,,0
+H4,2014,2014,2014,6,1,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,090190,"Coffee; husks and skins, coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,74368,,74368,,1293550,,,6
+H4,2014,2014,2014,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,090190,"Coffee; husks and skins, coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,10074,,10074,,103370,,,0
+H4,2014,2014,2014,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,090190,"Coffee; husks and skins, coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,3663,,3663,,24146,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090190,"Coffee; husks and skins, coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,2007,,2007,,10229,,,0
+H4,2014,2014,2014,6,1,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090190,"Coffee; husks and skins, coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,3866,,3866,,31886,,,0
+H4,2014,2014,2014,6,1,1,Import,842,USA,USA,0,World,WLD,,,,,,,,090190,"Coffee; husks and skins, coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,118942,,118942,,629557,,,0
+H4,2014,2014,2014,6,1,2,Export,842,USA,USA,0,World,WLD,,,,,,,,090190,"Coffee; husks and skins, coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,1339058,,1339058,,3777381,,,0
+H4,2014,2014,2014,6,1,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,090190,"Coffee; husks and skins, coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,537107,,537107,,243014,,,0
+H4,2015,2015,2015,6,1,1,Import,156,China,CHN,0,World,WLD,,,,,,,,090190,"Coffee; husks and skins, coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,42244,,42244,,288686,,,6
+H4,2015,2015,2015,6,1,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,090190,"Coffee; husks and skins, coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,49405,,49405,,494059,,,0
+H4,2015,2015,2015,6,1,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,090190,"Coffee; husks and skins, coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,69128,,69128,,1037655,,,0
+H4,2015,2015,2015,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,090190,"Coffee; husks and skins, coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,131162,,131162,,61881,,,0
+H4,2015,2015,2015,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,090190,"Coffee; husks and skins, coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,474,,474,,6016,,,0
+H4,2015,2015,2015,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090190,"Coffee; husks and skins, coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,152012,,152012,,267153,,,0
+H4,2015,2015,2015,6,1,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090190,"Coffee; husks and skins, coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,1073,,1073,,21649,,,0
+H4,2015,2015,2015,6,1,1,Import,842,USA,USA,0,World,WLD,,,,,,,,090190,"Coffee; husks and skins, coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,186877,,186877,,824857,,,0
+H4,2015,2015,2015,6,1,2,Export,842,USA,USA,0,World,WLD,,,,,,,,090190,"Coffee; husks and skins, coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,801820,,801820,,3735101,,,0
+H4,2015,2015,2015,6,1,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,090190,"Coffee; husks and skins, coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,37427,,37427,,85082,,,0
+H4,2016,2016,2016,6,1,1,Import,156,China,CHN,0,World,WLD,,,,,,,,090190,"Coffee; husks and skins, coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,16698,,16698,,124144,,,6
+H4,2016,2016,2016,6,1,2,Export,156,China,CHN,0,World,WLD,,,,,,,,090190,"Coffee; husks and skins, coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,2251,,2251,,10989,,,6
+H4,2016,2016,2016,6,1,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,090190,"Coffee; husks and skins, coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,113248,,113248,,501874,,,0
+H4,2016,2016,2016,6,1,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,090190,"Coffee; husks and skins, coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,67432,,67432,,835100,,,0
+H4,2016,2016,2016,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,090190,"Coffee; husks and skins, coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,8479,,8479,,81476,,,0
+H4,2016,2016,2016,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,090190,"Coffee; husks and skins, coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,257,,257,,5608,,,0
+H4,2016,2016,2016,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090190,"Coffee; husks and skins, coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,120643,,120643,,207481,,,0
+H4,2016,2016,2016,6,1,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090190,"Coffee; husks and skins, coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,912,,912,,15622,,,0
+H4,2016,2016,2016,6,1,1,Import,842,USA,USA,0,World,WLD,,,,,,,,090190,"Coffee; husks and skins, coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,172351,,172351,,778956,,,0
+H4,2016,2016,2016,6,1,2,Export,842,USA,USA,0,World,WLD,,,,,,,,090190,"Coffee; husks and skins, coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,793105,,793105,,3796288,,,0
+H4,2016,2016,2016,6,1,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,090190,"Coffee; husks and skins, coffee substitutes containing coffee in any proportion",8,Weight in kilograms,,,154688,,154688,,830644,,,0
+H4,2014,2014,2014,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,0902,Tea,8,Weight in kilograms,,,22553276,,22553276,,92072745,,,6
+H4,2014,2014,2014,4,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,0902,Tea,8,Weight in kilograms,,,301484187,,301484187,,1272663369,,,6
+H4,2014,2014,2014,4,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,0902,Tea,8,Weight in kilograms,,,58573084,,58573084,,237358448,,,6
+H4,2014,2014,2014,4,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,0902,Tea,8,Weight in kilograms,,,27406352,,27406352,,252089400,,,0
+H4,2014,2014,2014,4,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,0902,Tea,8,Weight in kilograms,,,32965637,,32965637,,189701345,,,0
+H4,2014,2014,2014,4,0,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,0902,Tea,8,Weight in kilograms,,,3594332,,3594332,,75208226,,,0
+H4,2014,2014,2014,4,0,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,0902,Tea,8,Weight in kilograms,,,172606717,,172606717,,645822240,,,0
+H4,2014,2014,2014,4,0,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,0902,Tea,8,Weight in kilograms,,,12307573,,12307573,,85374524,,,0
+H4,2014,2014,2014,4,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,0902,Tea,8,Weight in kilograms,,,129245646,,129245646,,467327857,,,0
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,0902,Tea,8,Weight in kilograms,,,15387856,,15387856,,107798560,,,0
+H4,2014,2014,2014,4,0,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,0902,Tea,8,Weight in kilograms,,,3108670,,3108670,,21789366,,,0
+H4,2015,2015,2015,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,0902,Tea,8,Weight in kilograms,,,22865260,,22865260,,105594348,,,6
+H4,2015,2015,2015,4,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,0902,Tea,8,Weight in kilograms,,,324951045,,324951045,,1381530399,,,0
+H4,2015,2015,2015,4,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,0902,Tea,8,Weight in kilograms,,,57690789,,57690789,,225925059,,,6
+H4,2015,2015,2015,4,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,0902,Tea,8,Weight in kilograms,,,25696223,,25696223,,217131578,,,6
+H4,2015,2015,2015,4,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,0902,Tea,8,Weight in kilograms,,,30598986,,30598986,,174020684,,,0
+H4,2015,2015,2015,4,0,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,0902,Tea,8,Weight in kilograms,,,4262920,,4262920,,85944038,,,0
+H4,2015,2015,2015,4,0,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,0902,Tea,8,Weight in kilograms,,,173065340,,173065340,,637829338,,,6
+H4,2015,2015,2015,4,0,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,0902,Tea,8,Weight in kilograms,,,12517297,,12517297,,69499003,,,6
+H4,2015,2015,2015,4,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,0902,Tea,8,Weight in kilograms,,,129707984,,129707984,,468841440,,,0
+H4,2015,2015,2015,4,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,0902,Tea,8,Weight in kilograms,,,16078853,,16078853,,110360425,,,0
+H4,2015,2015,2015,4,0,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,0902,Tea,8,Weight in kilograms,,,2620861,,2620861,,19562636,,,0
+H4,2016,2016,2016,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,0902,Tea,8,Weight in kilograms,,,22663814,,22663814,,111497651,,,6
+H4,2016,2016,2016,4,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,0902,Tea,8,Weight in kilograms,,,328699302,,328699302,,1485021549,,,0
+H4,2016,2016,2016,4,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,0902,Tea,8,Weight in kilograms,,,57518677,,57518677,,226491437,,,6
+H4,2016,2016,2016,4,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,0902,Tea,8,Weight in kilograms,,,25417119,,25417119,,232732266,,,0
+H4,2016,2016,2016,4,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,0902,Tea,8,Weight in kilograms,,,29430529,,29430529,,165139348,,,0
+H4,2016,2016,2016,4,0,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,0902,Tea,8,Weight in kilograms,,,4251010,,4251010,,108920513,,,0
+H4,2016,2016,2016,4,0,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,0902,Tea,8,Weight in kilograms,,,164397674,,164397674,,548258693,,,0
+H4,2016,2016,2016,4,0,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,0902,Tea,8,Weight in kilograms,,,14767449,,14767449,,76318675,,,0
+H4,2016,2016,2016,4,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,0902,Tea,8,Weight in kilograms,,,131067425,,131067425,,483136683,,,6
+H4,2016,2016,2016,4,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,0902,Tea,8,Weight in kilograms,,,17717671,,17717671,,127971492,,,0
+H4,2016,2016,2016,4,0,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,0902,Tea,8,Weight in kilograms,,,3606409,,3606409,,26090725,,,0
+H4,2014,2014,2014,6,1,1,Import,156,China,CHN,0,World,WLD,,,,,,,,090210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,283996,,283996,,4993928,,,6
+H4,2014,2014,2014,6,1,2,Export,156,China,CHN,0,World,WLD,,,,,,,,090210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,145546295,,145546295,,655014701,,,6
+H4,2014,2014,2014,6,1,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,090210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,1256169,,1256169,,16865000,,,6
+H4,2014,2014,2014,6,1,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,090210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,2126392,,2126392,,51333899,,,0
+H4,2014,2014,2014,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,090210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,381848,,381848,,2062390,,,0
+H4,2014,2014,2014,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,090210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,2014624,,2014624,,43550124,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,3213734,,3213734,,19018733,,,0
+H4,2014,2014,2014,6,1,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,1499859,,1499859,,12389672,,,0
+H4,2014,2014,2014,6,1,1,Import,842,USA,USA,0,World,WLD,,,,,,,,090210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,4646697,,4646697,,54943418,,,0
+H4,2014,2014,2014,6,1,2,Export,842,USA,USA,0,World,WLD,,,,,,,,090210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,5455747,,5455747,,24999784,,,0
+H4,2014,2014,2014,6,1,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,090210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,1024466,,1024466,,5361390,,,0
+H4,2015,2015,2015,6,1,1,Import,156,China,CHN,0,World,WLD,,,,,,,,090210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,507289,,507289,,8094664,,,6
+H4,2015,2015,2015,6,1,2,Export,156,China,CHN,0,World,WLD,,,,,,,,090210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,140514769,,140514769,,654932642,,,0
+H4,2015,2015,2015,6,1,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,090210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,919946,,919946,,14339700,,,6
+H4,2015,2015,2015,6,1,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,090210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,2327773,,2327773,,48754602,,,0
+H4,2015,2015,2015,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,090210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,349458,,349458,,1929875,,,0
+H4,2015,2015,2015,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,090210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,2301143,,2301143,,48554008,,,0
+H4,2015,2015,2015,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,2320730,,2320730,,13843155,,,6
+H4,2015,2015,2015,6,1,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,1333975,,1333975,,8998999,,,6
+H4,2015,2015,2015,6,1,1,Import,842,USA,USA,0,World,WLD,,,,,,,,090210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,4819238,,4819238,,64758299,,,0
+H4,2015,2015,2015,6,1,2,Export,842,USA,USA,0,World,WLD,,,,,,,,090210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,5350197,,5350197,,26498133,,,0
+H4,2015,2015,2015,6,1,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,090210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,1109103,,1109103,,6007389,,,0
+H4,2016,2016,2016,6,1,1,Import,156,China,CHN,0,World,WLD,,,,,,,,090210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,544613,,544613,,6936817,,,6
+H4,2016,2016,2016,6,1,2,Export,156,China,CHN,0,World,WLD,,,,,,,,090210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,130864354,,130864354,,648695072,,,0
+H4,2016,2016,2016,6,1,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,090210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,650516,,650516,,13089820,,,6
+H4,2016,2016,2016,6,1,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,090210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,2473684,,2473684,,53372988,,,0
+H4,2016,2016,2016,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,090210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,393435,,393435,,2925319,,,0
+H4,2016,2016,2016,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,090210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,2049731,,2049731,,64635809,,,0
+H4,2016,2016,2016,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,1400010,,1400010,,8171623,,,0
+H4,2016,2016,2016,6,1,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,1722159,,1722159,,10177672,,,0
+H4,2016,2016,2016,6,1,1,Import,842,USA,USA,0,World,WLD,,,,,,,,090210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,5395982,,5395982,,77785783,,,0
+H4,2016,2016,2016,6,1,2,Export,842,USA,USA,0,World,WLD,,,,,,,,090210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,5269921,,5269921,,27442007,,,0
+H4,2016,2016,2016,6,1,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,090210,"Tea, green; (not fermented), in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,1265038,,1265038,,6106806,,,0
+H4,2014,2014,2014,6,1,1,Import,156,China,CHN,0,World,WLD,,,,,,,,090220,"Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,4385831,,4385831,,5757109,,,0
+H4,2014,2014,2014,6,1,2,Export,156,China,CHN,0,World,WLD,,,,,,,,090220,"Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,109412696,,109412696,,344617231,,,0
+H4,2014,2014,2014,6,1,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,090220,"Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,15792356,,15792356,,59884260,,,0
+H4,2014,2014,2014,6,1,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,090220,"Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,6068226,,6068226,,44222196,,,0
+H4,2014,2014,2014,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,090220,"Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,3811042,,3811042,,19324609,,,0
+H4,2014,2014,2014,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,090220,"Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,1501426,,1501426,,30091404,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090220,"Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,12971962,,12971962,,45756314,,,0
+H4,2014,2014,2014,6,1,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090220,"Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,16049,,16049,,191364,,,0
+H4,2014,2014,2014,6,1,1,Import,842,USA,USA,0,World,WLD,,,,,,,,090220,"Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,11677933,,11677933,,62003608,,,0
+H4,2014,2014,2014,6,1,2,Export,842,USA,USA,0,World,WLD,,,,,,,,090220,"Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,1556299,,1556299,,7254549,,,0
+H4,2014,2014,2014,6,1,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,090220,"Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,521611,,521611,,2430918,,,0
+H4,2015,2015,2015,6,1,1,Import,156,China,CHN,0,World,WLD,,,,,,,,090220,"Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,2127645,,2127645,,4078385,,,0
+H4,2015,2015,2015,6,1,2,Export,156,China,CHN,0,World,WLD,,,,,,,,090220,"Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,137673153,,137673153,,401604045,,,0
+H4,2015,2015,2015,6,1,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,090220,"Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,16294380,,16294380,,61361193,,,0
+H4,2015,2015,2015,6,1,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,090220,"Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,5759377,,5759377,,39022968,,,0
+H4,2015,2015,2015,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,090220,"Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,3143305,,3143305,,17428586,,,0
+H4,2015,2015,2015,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,090220,"Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,1826011,,1826011,,34966000,,,0
+H4,2015,2015,2015,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090220,"Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,12097813,,12097813,,43652002,,,0
+H4,2015,2015,2015,6,1,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090220,"Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,78565,,78565,,449484,,,6
+H4,2015,2015,2015,6,1,1,Import,842,USA,USA,0,World,WLD,,,,,,,,090220,"Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,13923697,,13923697,,67706454,,,0
+H4,2015,2015,2015,6,1,2,Export,842,USA,USA,0,World,WLD,,,,,,,,090220,"Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,1573590,,1573590,,7580211,,,0
+H4,2015,2015,2015,6,1,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,090220,"Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,412532,,412532,,1935382,,,0
+H4,2016,2016,2016,6,1,1,Import,156,China,CHN,0,World,WLD,,,,,,,,090220,"Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,1268867,,1268867,,4706349,,,0
+H4,2016,2016,2016,6,1,2,Export,156,China,CHN,0,World,WLD,,,,,,,,090220,"Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,145798855,,145798855,,463906544,,,0
+H4,2016,2016,2016,6,1,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,090220,"Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,15080576,,15080576,,62100053,,,6
+H4,2016,2016,2016,6,1,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,090220,"Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,5440661,,5440661,,41401923,,,0
+H4,2016,2016,2016,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,090220,"Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,3234990,,3234990,,16675825,,,0
+H4,2016,2016,2016,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,090220,"Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,2058359,,2058359,,41723843,,,0
+H4,2016,2016,2016,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090220,"Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,12737046,,12737046,,42807389,,,0
+H4,2016,2016,2016,6,1,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090220,"Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,113015,,113015,,466540,,,0
+H4,2016,2016,2016,6,1,1,Import,842,USA,USA,0,World,WLD,,,,,,,,090220,"Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,12088669,,12088669,,66156165,,,0
+H4,2016,2016,2016,6,1,2,Export,842,USA,USA,0,World,WLD,,,,,,,,090220,"Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,1914161,,1914161,,8568856,,,0
+H4,2016,2016,2016,6,1,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,090220,"Tea, green; (not fermented), in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,515143,,515143,,2349977,,,0
+H4,2014,2014,2014,6,1,1,Import,156,China,CHN,0,World,WLD,,,,,,,,090230,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,2029964,,2029964,,29994176,,,6
+H4,2014,2014,2014,6,1,2,Export,156,China,CHN,0,World,WLD,,,,,,,,090230,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,7289623,,7289623,,112923341,,,0
+H4,2014,2014,2014,6,1,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,090230,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,4560721,,4560721,,37194953,,,0
+H4,2014,2014,2014,6,1,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,090230,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,5372509,,5372509,,77922259,,,0
+H4,2014,2014,2014,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,090230,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,2844367,,2844367,,44692206,,,0
+H4,2014,2014,2014,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,090230,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,53544,,53544,,1008097,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090230,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,19815080,,19815080,,104360344,,,0
+H4,2014,2014,2014,6,1,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090230,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,10745959,,10745959,,72400898,,,0
+H4,2014,2014,2014,6,1,1,Import,842,USA,USA,0,World,WLD,,,,,,,,090230,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,13510438,,13510438,,124201781,,,0
+H4,2014,2014,2014,6,1,2,Export,842,USA,USA,0,World,WLD,,,,,,,,090230,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,5568721,,5568721,,62438608,,,0
+H4,2014,2014,2014,6,1,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,090230,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,924528,,924528,,11510904,,,0
+H4,2015,2015,2015,6,1,1,Import,156,China,CHN,0,World,WLD,,,,,,,,090230,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,2398376,,2398376,,35472028,,,6
+H4,2015,2015,2015,6,1,2,Export,156,China,CHN,0,World,WLD,,,,,,,,090230,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,8261578,,8261578,,141499557,,,0
+H4,2015,2015,2015,6,1,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,090230,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,4902197,,4902197,,36218141,,,6
+H4,2015,2015,2015,6,1,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,090230,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,5299322,,5299322,,66449623,,,6
+H4,2015,2015,2015,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,090230,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,2862662,,2862662,,43216299,,,0
+H4,2015,2015,2015,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,090230,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,106616,,106616,,1798007,,,0
+H4,2015,2015,2015,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090230,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,14007544,,14007544,,72683509,,,6
+H4,2015,2015,2015,6,1,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090230,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,10632312,,10632312,,57429503,,,6
+H4,2015,2015,2015,6,1,1,Import,842,USA,USA,0,World,WLD,,,,,,,,090230,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,14470966,,14470966,,130041162,,,0
+H4,2015,2015,2015,6,1,2,Export,842,USA,USA,0,World,WLD,,,,,,,,090230,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,6136917,,6136917,,60597433,,,0
+H4,2015,2015,2015,6,1,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,090230,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,715017,,715017,,10053485,,,0
+H4,2016,2016,2016,6,1,1,Import,156,China,CHN,0,World,WLD,,,,,,,,090230,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,2687970,,2687970,,36758242,,,6
+H4,2016,2016,2016,6,1,2,Export,156,China,CHN,0,World,WLD,,,,,,,,090230,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,8848416,,8848416,,158322519,,,0
+H4,2016,2016,2016,6,1,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,090230,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,5323452,,5323452,,39619457,,,6
+H4,2016,2016,2016,6,1,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,090230,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,6446661,,6446661,,75280011,,,0
+H4,2016,2016,2016,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,090230,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,2584016,,2584016,,39227994,,,0
+H4,2016,2016,2016,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,090230,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,80487,,80487,,1458419,,,0
+H4,2016,2016,2016,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090230,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,10523273,,10523273,,52502739,,,0
+H4,2016,2016,2016,6,1,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090230,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,12451997,,12451997,,64183378,,,0
+H4,2016,2016,2016,6,1,1,Import,842,USA,USA,0,World,WLD,,,,,,,,090230,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,15214246,,15214246,,139598830,,,0
+H4,2016,2016,2016,6,1,2,Export,842,USA,USA,0,World,WLD,,,,,,,,090230,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,7520573,,7520573,,76806454,,,0
+H4,2016,2016,2016,6,1,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,090230,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg",8,Weight in kilograms,,,1068215,,1068215,,14523942,,,0
+H4,2014,2014,2014,6,1,1,Import,156,China,CHN,0,World,WLD,,,,,,,,090240,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,15853484,,15853484,,51327532,,,6
+H4,2014,2014,2014,6,1,2,Export,156,China,CHN,0,World,WLD,,,,,,,,090240,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,39235573,,39235573,,160108096,,,0
+H4,2014,2014,2014,6,1,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,090240,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,36963838,,36963838,,123414235,,,0
+H4,2014,2014,2014,6,1,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,090240,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,13839225,,13839225,,78611045,,,0
+H4,2014,2014,2014,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,090240,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,25928380,,25928380,,123622140,,,0
+H4,2014,2014,2014,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,090240,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,24738,,24738,,558601,,,0
+H4,2014,2014,2014,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090240,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,136605941,,136605941,,476686848,,,0
+H4,2014,2014,2014,6,1,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090240,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,45706,,45706,,392589,,,0
+H4,2014,2014,2014,6,1,1,Import,842,USA,USA,0,World,WLD,,,,,,,,090240,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,99410578,,99410578,,226179050,,,0
+H4,2014,2014,2014,6,1,2,Export,842,USA,USA,0,World,WLD,,,,,,,,090240,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,2807089,,2807089,,13105619,,,0
+H4,2014,2014,2014,6,1,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,090240,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,638065,,638065,,2486154,,,0
+H4,2015,2015,2015,6,1,1,Import,156,China,CHN,0,World,WLD,,,,,,,,090240,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,17831949,,17831949,,57949271,,,6
+H4,2015,2015,2015,6,1,2,Export,156,China,CHN,0,World,WLD,,,,,,,,090240,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,38501545,,38501545,,183494155,,,0
+H4,2015,2015,2015,6,1,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,090240,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,35574266,,35574266,,114006025,,,0
+H4,2015,2015,2015,6,1,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,090240,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,12309751,,12309751,,62904385,,,0
+H4,2015,2015,2015,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,090240,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,24243561,,24243561,,111445924,,,0
+H4,2015,2015,2015,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,090240,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,29150,,29150,,626023,,,0
+H4,2015,2015,2015,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090240,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,144639252,,144639252,,507650672,,,6
+H4,2015,2015,2015,6,1,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090240,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,472445,,472445,,2621017,,,0
+H4,2015,2015,2015,6,1,1,Import,842,USA,USA,0,World,WLD,,,,,,,,090240,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,96494083,,96494083,,206335525,,,0
+H4,2015,2015,2015,6,1,2,Export,842,USA,USA,0,World,WLD,,,,,,,,090240,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,3018149,,3018149,,15684648,,,0
+H4,2015,2015,2015,6,1,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,090240,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,384209,,384209,,1566380,,,0
+H4,2016,2016,2016,6,1,1,Import,156,China,CHN,0,World,WLD,,,,,,,,090240,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,18162363,,18162363,,63096243,,,6
+H4,2016,2016,2016,6,1,2,Export,156,China,CHN,0,World,WLD,,,,,,,,090240,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,43187677,,43187677,,214097414,,,0
+H4,2016,2016,2016,6,1,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,090240,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,36464132,,36464132,,111682107,,,0
+H4,2016,2016,2016,6,1,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,090240,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,11056113,,11056113,,62677344,,,0
+H4,2016,2016,2016,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,090240,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,23218088,,23218088,,106310210,,,0
+H4,2016,2016,2016,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,090240,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,62433,,62433,,1102442,,,0
+H4,2016,2016,2016,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090240,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,139737346,,139737346,,444776942,,,0
+H4,2016,2016,2016,6,1,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,090240,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,480278,,480278,,1491085,,,0
+H4,2016,2016,2016,6,1,1,Import,842,USA,USA,0,World,WLD,,,,,,,,090240,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",1,No Quantity,,,0,,98368528,,199595905,,,6
+H4,2016,2016,2016,6,1,2,Export,842,USA,USA,0,World,WLD,,,,,,,,090240,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,3013016,,3013016,,15154175,,,0
+H4,2016,2016,2016,6,1,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,090240,"Tea, black; (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg",8,Weight in kilograms,,,758013,,758013,,3110000,,,0
